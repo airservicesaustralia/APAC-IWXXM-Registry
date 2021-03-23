@@ -1,19 +1,12 @@
 ## Welcome to APAC IWXXM Registry (Proof of Concept)
 
-These are the Data Services offered by [Airservices Australia](http://airservicesaustralia.com) to its customers.
+
+### ![](https://img.icons8.com/dusk/64/000000/xml-file.png) IWXXM Exchange Status
+
+ROC | Address | Ready to Receive | Address to Receive | AMHS Msg Size Limit | AMHS Sup FTBP+IHE* | Disseminate to ROCs | Disseminate to NOCs
+-- | -- | -- | -- | -- | -- | -- | --
+Bangkok | VTBB | Yes | VTBBYPYL | 6 KB | Yes | VHHH, WSSS, YBBB | Yes
+Beijing | ZBBB | Testing | ZBBBYPYL | 4 MB | Yes |  | 
 
 
-### ![](https://img.icons8.com/dusk/64/000000/swimming.png) Data Services
-
-ID | Name | Category | Status | Version 
--- | -- | -- | -- | -- | --
-[M001](service/M001.md) | Aerodrome Weather | Meteorological | Experimental | MVP.01
-[M002](service/M002.md) | En-route Weather | Meteorological | Experimental | MVP.01
-M003 | Weather Advisories| Meteorological | Experimental | MVP.01
- |  |  |  |  | 
-[A001](service/A001.md) | Vertical Obstruction | Aeronautical | Planned | MVP.01 
- |   |  |  |  | 
-F001| Flight Briefing | Flight | Planned | | 
-
-
-### SupportContact
+### Notes

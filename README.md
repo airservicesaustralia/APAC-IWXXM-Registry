@@ -1,4 +1,4 @@
-## ![](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/International_Civil_Aviation_Organization_logo.svg/300px-International_Civil_Aviation_Organization_logo.svg.png) Welcome to APAC IWXXM Registry (Proof of Concept)
+## <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/International_Civil_Aviation_Organization_logo.svg/300px-International_Civil_Aviation_Organization_logo.svg.png" width="150"> Welcome to APAC IWXXM Registry (Proof of Concept)
 
 
 ## ![](https://img.icons8.com/clouds/100/000000/windsock.png) IWXXM Exchange Status - Summary ![](https://img.icons8.com/dusk/64/000000/xml-file.png)
